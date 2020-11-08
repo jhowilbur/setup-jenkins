@@ -20,6 +20,7 @@
 #*****************
 ## see applications that have automation and their files Jenkinsfile, Dockerfile and more ...
 #### git clone https://github.com/jhowilbur/webflux-from-jenkins.git
+#### git clone https://github.com/jhowilbur/quarkus-from-jenkins.git
 #### git clone https://github.com/jhowilbur/setup-jenkins.git
 #*****************
 
